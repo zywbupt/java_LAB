@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"CountDownExample","h":"","u":""}]
